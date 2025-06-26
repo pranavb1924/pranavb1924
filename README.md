@@ -19,9 +19,6 @@
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 </p>
@@ -51,6 +48,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" height="36" alt="SQL Server" /></a>
+<a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_dynamodb/amazon_dynamodb-icon.svg" width="36" height="36" alt="DynamoDB" /></a>
 </p>
 
 **Cloud & DevOps**
@@ -89,22 +87,20 @@
 
 **Software Engineer**  
 Punarva Eco · Full-time  
-Mar 2024 - Jun 2024 · 4 months  
+Jul 2023 - Jun 2024 ·  
 Remote
 
-- Designed and developed credit-based payment software with responsive Next.js interfaces
+- Designed and developed credit-based payment software with responsive Angular interfaces
 - Built secure REST APIs for authentication and transaction processing
-- Integrated third-party payment services, optimizing performance and reducing latency
-
 ---
 
 **Software Engineer**  
 Advanced Business and Healthcare Solutions · Full-time  
-Jan 2021 - Jul 2023 · 2 year 7 months  
+Jan 2021 - Jul 2023 · 
 Remote
 
-- Developed scalable web applications using .NET Core, Vue.js, and React.js
-- Implemented cloud-native solutions leveraging Azure App Services and AWS services
+- Developed scalable web applications using .NET Core, and React.js
+- Implemented cloud-native solutions leveraging AWS services
 - Optimized CI/CD pipelines with Jenkins and GitHub Actions
 - Participated in database development with SQL Server and MySQL
 
