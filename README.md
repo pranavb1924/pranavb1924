@@ -115,11 +115,6 @@ Expected 2026
 **Bachelor of Engineering in Computer Science**  
 2021
 
-### Certifications
-
-- AWS Certified Cloud Practitioner
-- Azure Data Fundamentals
-
 ### GitHub Stats
 
 <p align="left">
