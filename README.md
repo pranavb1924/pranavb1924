@@ -10,7 +10,7 @@
 * You can contact me at [bhoopal.p@northeastern.edu](mailto:bhoopal.p@northeastern.edu)
 * I'm pursuing my Master's in Information Systems at Northeastern University
 * I have 3+ years of experience in healthcare and fintech domains
-* Currently working on [BullionX](https://github.com/pranavb1924/BullionX-Stock-Portfolio-Simulator-with-Stock-Reporting) - a stock portfolio simulator
+* Currently working on [BullionX](https://github.com/pranavb1924/bullionx) - a stock portfolio simulator
 * I'm open to collaborating on innovative full-stack projects
 
 ### Tech Stack
