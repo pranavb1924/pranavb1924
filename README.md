@@ -119,8 +119,3 @@ Expected December 2026
 Visvesvaraya Technological University, India  
 2021
 
-### GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=pranavb1924&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
